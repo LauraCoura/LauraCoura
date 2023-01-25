@@ -4,7 +4,8 @@ Nice to meet you, I'm Laura (She/Her)! I'm a brazilian Computer Science student 
 
 ### 👨‍💻 I'm currently working on:
 - My internship.
-- Learning Unity to start developing my own games.
+- My own website.
+- Finish my graduation! :D
 
 ### 👀 I'm interested on:
 - UI/UX Design.
