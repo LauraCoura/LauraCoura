@@ -1,6 +1,6 @@
 # Hello world! 👋
 
-Nice to meet you, I'm Laura (She/Her)! I'm a brazilian Computer Science student trying to not get segmentation fault errors on my projects. 
+Nice to meet you, I'm Laura (She/Her)! I'm a brazilian Ph.D. (Computer Science) student trying to not get segmentation fault errors on my projects. 
 
 ### 👨‍💻 I'm currently working on:
 - My doctor's degree.
