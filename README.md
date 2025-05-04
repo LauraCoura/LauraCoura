@@ -3,11 +3,11 @@
 Nice to meet you, I'm Laura (She/Her)! I'm a brazilian Computer Science student trying to not get segmentation fault errors on my projects. 
 
 ### 👨‍💻 I'm currently working on:
-- My internship.
-- My own website.
-- Finish my graduation! :D
+- My doctor's degree.
 
 ### 👀 I'm interested on:
+- Extended Reality.
+- ICT on Education.
 - UI/UX Design.
 - Game Design.
 - Web and Mobile Development. 
